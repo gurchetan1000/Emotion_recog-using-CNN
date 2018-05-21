@@ -1,3 +1,10 @@
+### Emotion Recognition using CNN
+
+Used Kaggle dataset to develop a model to predict the person's emotion. Used CNN along with OpenCV to track the emotion live using visual feed.
+
+
+
+
 If you use this dataset in your research work, please cite
 
 "Challenges in Representation Learning: A report on three machine learning
